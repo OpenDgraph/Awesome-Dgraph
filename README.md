@@ -46,7 +46,7 @@ A list of media, code and info about Dgraph.
 ## Youtube in general
 
 #### 2018
-
+* [Graph theory: 🐺 wolf, 🐑 sheep and 🥗 cabbage](https://youtu.be/pBT-8gqhHzo)
 * [Graph Database & Dgraph Intro](https://youtu.be/5_N4Q68uUAQ)
 * [Run Dgraph with Docker-Compose](https://youtu.be/BZ84BmtmcW4)
 > Dgraph has changed since this video above. Now instead of "Dgraph Server to run Dgraph. You need to run "Dgraph Alpha". [Check Dgraph v1.0.10 release](https://github.com/dgraph-io/dgraph/releases/tag/v1.0.10)
