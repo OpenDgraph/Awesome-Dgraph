@@ -21,6 +21,7 @@ A list of media, code and info about Dgraph.
     -   [Discussion Forums](#Discussion-Forums)
     -   [Dgraph's Social Media](#Dgraph's-Social-Media)
 
+-   [Showcases](#Showcases)
 -   [Downloads](#Downloads)
 -   [Repos of interest](#Repos-of-interest)
 
@@ -107,7 +108,7 @@ Here you gonna have interesting content related to Graph world.
 -   [Dgraph - Scalable, Distributed, Low Latency, High Throughput Graph Database.](https://github.com/dgraph-io/dgraph/releases)
     > If you're using MacOs you can prompt Dgraph like so `brew tap srfrog/dgraph` and then `brew install dgraph`
 
-# Use cases
+# Showcases
 
 #### [rails-graphoverflow](https://github.com/dgraph-io/rails-graphoverflow) (Ruby)
 
