@@ -1,5 +1,5 @@
 // JS code for scrapping repositories from user profile.
-// Run in code in any git user profile.
+// Run in code in any git user profile.Make sure you are on repositories. 
 const repos = [];
 // Get repositories html elements.
 const repoElements = document.getElementsByClassName("d-inline-block mb-1");
@@ -25,7 +25,9 @@ for (let i = 0; i < repos.length; i++) {
     textBuffer.push(
         `
 ### [${repo.name}](${repo.url}) ${ repo.lang ? "("+repo.lang.replace(" ","")+")" : ""}
+
 ${repo.desc}
+
 `);
 }
 
