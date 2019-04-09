@@ -33,6 +33,11 @@ A list of media, code and info about Dgraph.
 
 ## From Dgraph Youtube Channel
 
+#### 2019
+
+* [Graph Database: Up and Running with Dgraph's Tour (2019)](https://youtu.be/sxqRGfDL7Qw)
+* [Graph Database: Performing CRUD operations with Dgraph (2019)](https://youtu.be/vhatoyZ2vic)
+
 #### 2018
 
 * [KV Database: Badger Talk at GoSF Meetup - 21 Feb (2018)](https://youtu.be/VftmLgwk_cY)
