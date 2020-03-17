@@ -12,7 +12,6 @@ A list of media, code and info about Dgraph.
 
 - [Documentations](#Documentations)
 
-
 - [Community](#Community)
     - [Chat](#Chat)
     - [Discussion Forums](#Discussion-Forums)
@@ -79,6 +78,7 @@ Here you gonna have interesting content related to Graph world.
 # Documentations
 
  -  [Main Dgraph's Docs](https://docs.dgraph.io/)
+ -  [Jepsen Distributed Systems Analysis on DGraph](https://jepsen.io/analyses/dgraph-1-0-2)
 
 # Community
   ## Chat
