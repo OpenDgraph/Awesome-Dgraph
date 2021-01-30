@@ -25,12 +25,26 @@ A list of media, code and info about Dgraph.
 
 ## Podcasts
 
+#### 2021
+
+* [Dgraph: Native GraphQL Database with Manish Jain](https://softwareengineeringdaily.com/2021/01/19/dgraph-native-graphql-database-with-manish-jain/)
+
+#### 2020
+
+- [Contributor: Dgraph with Manish Jain](https://www.breaker.audio/contributor/e/71505287)
+
+#### 2019
+
+- [Go Time #108: Graph Databases (podcast)](https://www.youtube.com/watch?v=Mc_oJ9z3mp4)
 #### 2018
 
 * [There and back again (Dgraph's tale)](https://changelog.com/podcast/322)
 * [Graph Databases In Production At Scale Using DGraph with Manish Jain - Episode 44](https://www.dataengineeringpodcast.com/dgraph-with-manish-jain-episode-44/)
 
 ## From Dgraph Youtube Channel
+
+#### 2020
+- [DGraph - a Graph Database](https://www.youtube.com/watch?v=X85_Gq43i-A)
 
 #### 2019
 
@@ -79,11 +93,10 @@ Here you gonna have interesting content related to Graph world.
 
  -  [Main Dgraph's Docs](https://docs.dgraph.io/)
  -  [Jepsen Distributed Systems Analysis on DGraph](https://jepsen.io/analyses/dgraph-1-0-2)
+ -  [Dgraph Paper](https://dgraph.io/paper)
 
 # Community
-  ## Chat
-  - [Slack Channel](https://dgraph.slack.com)
-  ## Discussion Forums
+## Discussion Forums
    - [Discuss](https://discuss.dgraph.io/)
    - [Stack Overflow](https://stackoverflow.com/questions/tagged/dgraph)
    - [Reddit](https://www.reddit.com/user/manishrjain)
@@ -97,6 +110,7 @@ Here you gonna have interesting content related to Graph world.
 
 - [Badger - Fast key-value store in Go.](https://github.com/dgraph-io/badger/releases)
 - [Dgraph - Scalable, Distributed, Low Latency, High Throughput Graph Database.](https://github.com/dgraph-io/dgraph/releases)
+- [Install Dgraph](https://github.com/dgraph-io/Install-Dgraph)
 > If you're using MacOs you can prompt Dgraph like so `brew tap srfrog/dgraph` and then `brew install dgraph`
 
 # Code
