@@ -10,6 +10,8 @@ A list of media, code and info about Dgraph.
     - [From Dgraph YT Channel](#From-Dgraph-Youtube-Channel)
     - [Youtube](#Youtube-in-general)
 
+- [Media](#Media)
+
 - [Documentations](#Documentations)
 
 - [Community](#Community)
@@ -41,7 +43,7 @@ A list of media, code and info about Dgraph.
 * [There and back again (Dgraph's tale)](https://changelog.com/podcast/322)
 * [Graph Databases In Production At Scale Using DGraph with Manish Jain - Episode 44](https://www.dataengineeringpodcast.com/dgraph-with-manish-jain-episode-44/)
 
-## From Dgraph Youtube Channel
+## From Dgraph's Youtube Channel
 
 #### 2020
 - [DGraph - a Graph Database](https://www.youtube.com/watch?v=X85_Gq43i-A)
@@ -89,6 +91,10 @@ Here you gonna have interesting content related to Graph world.
 * [Algorithms: Graph Search, DFS and BFS](https://youtu.be/zaBhtODEL0w)
 * [What are Graph Databases and Why should I care? - Dave Bechberger](https://youtu.be/qiqLhlG4CkU)
 
+# Media
+
+   - [Dgraph: 12 Reasons that make it the Best Database of 21st Century](https://www.derpycoder.com/dgraph-12-reasons-that-make-it-the-best-database-of-21st-century/)
+
 # Documentations
 
  -  [Main Dgraph's Docs](https://docs.dgraph.io/)
@@ -101,7 +107,7 @@ Here you gonna have interesting content related to Graph world.
    - [Stack Overflow](https://stackoverflow.com/questions/tagged/dgraph)
    - [Reddit](https://www.reddit.com/user/manishrjain)
    - [Hacker News](https://hn.algolia.com/?query=dgraph&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
-  ## Dgraph's Social Media
+## Dgraph's Social Media
   - [Dgraph's Twitter](https://twitter.com/dgraphlabs)
   - [Manish's Twitter](https://twitter.com/manishrjain)
 
